@@ -1,0 +1,26 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.16)
+  - SDWebImage (5.18.3):
+    - SDWebImage/Core (= 5.18.3)
+  - SDWebImage/Core (5.18.3)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SideMenu
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  SDWebImage: 96e0c18ef14010b7485210e92fac888587ebb958
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: d23dbdfabdbcea22f9950b48daceb75bffb66287
+
+COCOAPODS: 1.14.2
